@@ -6,6 +6,7 @@ El Repositorio se compone de dos elementos:
 https://github.com/yeisonseverinopucv/testhpcpucv/wiki/1.-Presentaci%C3%B3n
 
 #### 2.- Repositorio de ejemplos que apoyan la guía de usuario wiki.
+https://github.com/yeisonseverinopucv/testhpcpucv/tree/main
 
 
 
