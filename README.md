@@ -1,4 +1,4 @@
-# Repositorio: testhpcpucv
+# Repositorio: testhpcpucv - HPC OCEANO PUCV
 Este repositorio es para dar un formato de prueba para el futuro github del HPC OCEANO PUCV
 
 El Repositorio se compone de dos elementos:
